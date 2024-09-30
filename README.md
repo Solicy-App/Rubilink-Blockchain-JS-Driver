@@ -18,6 +18,9 @@ Code is Apache-2.0 and docs are CC-BY-4.0
 - [Main Documentation](https://docs.bigchaindb.com/projects/js-driver/en/latest/usage.html)
 - [Driver API reference](API.md)
 
+## About
+This project is maintained by [Solicy Software and Blockchain Company](https://solicy.net/?utm_source=github&utm_medium=social)
+
 ## Compatibility
 
 | BigchainDB Server | BigchainDB JavaScript Driver |
